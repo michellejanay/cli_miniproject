@@ -1,6 +1,6 @@
 # Michelle's Mini Project
 
-Hi! Welcome to my Mini Café ☕️ Project. This is a Command Line Interface project built using Python, Docker, and PostgreSQL. It uses a Tabulate module from Python for Cafe menu displays, as well as Psycopg2 for managing the database and Pytest for running Unit Tests. The project was created over a 6 week period while learning Python and with each week we were given a new set of MVP requirements. The week-6 directory contains the most up to date version.
+Hi! Welcome to my Mini Café ☕️ Project. This is a Command Line Interface project built using Python, Docker, and PostgreSQL. It uses a Tabulate module from Python for Cafe menu displays, as well as Psycopg2 for managing the database and Pytest for running Unit Tests. The project was created over a 6 week period, originally uploaded to a repository as part of a private organization, while learning Python. With each week we were given a new set of MVP requirements. The week-6 directory contains the most up to date version.
 
 ## Client requirements
 
@@ -74,4 +74,4 @@ I guaranteed project requirements by following the guidelines set for us. We wer
 To improve the app, I would make more robust Unit Tests, and also ensure the Unit Tests are working accurately. I also would have implemented classes where possible, and done more of the bonus challenges instead of just the stretch goals. 
 
 #### What I most enjoyed implementing
-What I enjoyed implementing the most was the persistence of the data. We first did this using txt files, then csv files, and eventually databases. I also enjoyed using the Tabulate module in python to make my cafe menus look pretty✨ Overall, I also enjoyed seeing the entire project come together. 
+What I enjoyed implementing the most was the persistence of the data. We first did this using txt files, then csv files, and eventually databases. I also enjoyed using the Tabulate module in python to make my cafe menus look ✨pretty✨ Overall, I also enjoyed seeing the entire project come together. 
