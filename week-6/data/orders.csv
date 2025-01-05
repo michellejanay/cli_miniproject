@@ -1,0 +1,4 @@
+customer_name,customer_address,customer_phone,courier,order_status,items
+michelle,my address,my phone number,2,received,
+m,my address,my phone number,5,preparing,"1,2,3"
+test,test,test,3,preparing,"1,2,3"
